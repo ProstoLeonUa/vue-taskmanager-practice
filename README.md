@@ -1,2 +1,2 @@
 # vue-taskmanager-practice
-Practice-vue.js
+GitPages --> https://prostoleonua.github.io/vue-taskmanager-practice/
